@@ -1,2 +1,2 @@
 # picsbotvn
-Code Này Sẽ Tự động Gửi Image gái xong :)
+Code Này Sẽ Tự động Gửi Image gái xinh :)
