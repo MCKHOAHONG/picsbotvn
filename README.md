@@ -1,2 +1,2 @@
 # picsbotvn
-O4r
+Code Này Sẽ Tự động Gửi Image gái xong :)
